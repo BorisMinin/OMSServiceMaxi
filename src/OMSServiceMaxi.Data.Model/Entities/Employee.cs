@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace OMSServiceMaxi.Data.Model.Models
+﻿namespace OMSServiceMaxi.Data.Model.Entities
 {
     public class Employee
     {
