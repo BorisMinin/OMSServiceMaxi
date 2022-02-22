@@ -1,3 +1,8 @@
+// https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial - UnitOfWork
+// https://stackoverflow.com/questions/43058994/how-to-add-src-folder-at-solution-root/63337345#63337345 - add src folder
+using Microsoft.EntityFrameworkCore;
+using OMSServiceMaxi.DAL.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
