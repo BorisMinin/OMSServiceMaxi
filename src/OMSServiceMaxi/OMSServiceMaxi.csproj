@@ -12,7 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OMSServiceMaxi.DAL\OMSServiceMaxi.DAL.csproj" />
-    <ProjectReference Include="..\OMSServiceMaxi.Data.Model\OMSServiceMaxi.Data.Model.csproj" />
+    <ProjectReference Include="..\OMSServiceMaxi.Data.Model\OMSServiceMaxi.Data.Models.csproj" />
   </ItemGroup>
 
 </Project>

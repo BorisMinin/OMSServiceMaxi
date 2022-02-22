@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B4660397-E20E-4C2E-B1EA-6A8C8ABBC661}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.Data.Model", "src\OMSServiceMaxi.Data.Model\OMSServiceMaxi.Data.Model.csproj", "{BEBF13A2-DC76-45A6-8A3F-C65CF573335A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.Data.Models", "src\OMSServiceMaxi.Data.Model\OMSServiceMaxi.Data.Models.csproj", "{BEBF13A2-DC76-45A6-8A3F-C65CF573335A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi", "src\OMSServiceMaxi\OMSServiceMaxi.csproj", "{93E41811-3E40-476D-AF9D-B7D6D5561331}"
 EndProject
