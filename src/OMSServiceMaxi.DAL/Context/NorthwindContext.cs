@@ -9,8 +9,11 @@ namespace OMSServiceMaxi.DAL.Context
             : base(options)
         {
         }
-        public virtual DbSet<Category> Categories { get; set; }
-        public virtual DbSet<Product> Products { get; set; }
+        /// <summary>
+        /// Предоставляется коллекция всех сущностей
+        /// </summary>
+        public virtual DbSet<Category> Categories { get; set; } // для сущности Category
+        public virtual DbSet<Product> Products { get; set; } // для сущности Products
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
