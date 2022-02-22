@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi", "src\OMSSe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.DAL", "src\OMSServiceMaxi.DAL\OMSServiceMaxi.DAL.csproj", "{BCF114D2-6CEE-4BDA-B155-E4D120C25885}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMSServiceMaxi.API.Models", "src\OMSServiceMaxi.API.Models\OMSServiceMaxi.API.Models.csproj", "{34540BAF-23D6-4908-A38C-79B4312F0A58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{BCF114D2-6CEE-4BDA-B155-E4D120C25885}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCF114D2-6CEE-4BDA-B155-E4D120C25885}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCF114D2-6CEE-4BDA-B155-E4D120C25885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34540BAF-23D6-4908-A38C-79B4312F0A58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34540BAF-23D6-4908-A38C-79B4312F0A58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34540BAF-23D6-4908-A38C-79B4312F0A58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34540BAF-23D6-4908-A38C-79B4312F0A58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{BEBF13A2-DC76-45A6-8A3F-C65CF573335A} = {B4660397-E20E-4C2E-B1EA-6A8C8ABBC661}
 		{93E41811-3E40-476D-AF9D-B7D6D5561331} = {B4660397-E20E-4C2E-B1EA-6A8C8ABBC661}
 		{BCF114D2-6CEE-4BDA-B155-E4D120C25885} = {B4660397-E20E-4C2E-B1EA-6A8C8ABBC661}
+		{34540BAF-23D6-4908-A38C-79B4312F0A58} = {B4660397-E20E-4C2E-B1EA-6A8C8ABBC661}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8248B2CB-ADEF-4052-96C1-2A1D3FC15485}
