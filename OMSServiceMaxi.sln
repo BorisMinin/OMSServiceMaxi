@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi", "src\OMSSe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.DAL", "src\OMSServiceMaxi.DAL\OMSServiceMaxi.DAL.csproj", "{BCF114D2-6CEE-4BDA-B155-E4D120C25885}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{D93C9E22-CD59-4D9E-AECA-E66A788F31C0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
