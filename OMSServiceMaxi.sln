@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.Data.Models"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi", "src\OMSServiceMaxi\OMSServiceMaxi.csproj", "{93E41811-3E40-476D-AF9D-B7D6D5561331}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.DAL", "src\OMSServiceMaxi.DAL\OMSServiceMaxi.DAL.csproj", "{BCF114D2-6CEE-4BDA-B155-E4D120C25885}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.Data.Access", "src\OMSServiceMaxi.DAL\OMSServiceMaxi.Data.Access.csproj", "{BCF114D2-6CEE-4BDA-B155-E4D120C25885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMSServiceMaxi.API.Models", "src\OMSServiceMaxi.API.Models\OMSServiceMaxi.API.Models.csproj", "{34540BAF-23D6-4908-A38C-79B4312F0A58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OMSServiceMaxi.API.Models", "src\OMSServiceMaxi.API.Models\OMSServiceMaxi.API.Models.csproj", "{34540BAF-23D6-4908-A38C-79B4312F0A58}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

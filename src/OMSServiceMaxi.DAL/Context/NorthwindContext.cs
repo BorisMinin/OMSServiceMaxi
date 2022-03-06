@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using OMSServiceMaxi.Data.Model.Models;
+using OMSServiceMaxi.Data.Model.Entities;
 
-namespace OMSServiceMaxi.DAL.Context
+namespace OMSServiceMaxi.OMSServiceMaxi.Data.Access.Context
 {
     public partial class NorthwindContext : DbContext
     {

@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\OMSServiceMaxi.DAL\OMSServiceMaxi.DAL.csproj" />
+    <ProjectReference Include="..\OMSServiceMaxi.DAL\OMSServiceMaxi.Data.Access.csproj" />
     <ProjectReference Include="..\OMSServiceMaxi.Data.Model\OMSServiceMaxi.Data.Models.csproj" />
   </ItemGroup>
 
