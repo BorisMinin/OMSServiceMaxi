@@ -3,6 +3,7 @@ using OMSServiceMaxi.Maps.Interfaces;
 
 namespace OMSServiceMaxi.IoC
 {
+
     /// <summary>
     /// Класс для хранения регистрации служб
     /// </summary>
